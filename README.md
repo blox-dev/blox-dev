@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 - 📚 Master's Graduate in Computer Science at Vrije Universiteit Brussel.
 - 🔧 Software Engineer and Data Scientist.
 - ☁️ Passionate about cloud technologies and big data.
-- 🌱 Always keeping the tech stack up-to-date.
+- 🌱 Always keeping my tech stack up-to-date.
 
 Check out my projects here: https://blox-dev.github.io
 
