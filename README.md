@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there, I'm blox-dev 👋
+
+Welcome to my GitHub profile!
+
+- 📚 Master's Graduate in Computer Science at Vrije Universiteit Brussel.
+- 🔧 Software Engineer and Data Scientist.
+- ☁️ Passionate about cloud technologies and big data.
+- 🌱 Always keeping the tech stack up-to-date.
+
+Check out my projects here: https://blox-dev.github.io
 
 <!--
 **blox-dev/blox-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
